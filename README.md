@@ -1,4 +1,4 @@
-# Todo App
+# Tasks management App 
 
 A full-stack todo application with FastAPI backend and Next.js frontend, running on Docker.
 
